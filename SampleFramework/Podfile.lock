@@ -1,0 +1,16 @@
+PODS:
+  - JaguarFramework (1.0.0)
+
+DEPENDENCIES:
+  - JaguarFramework (from `../JaguarFramework`)
+
+EXTERNAL SOURCES:
+  JaguarFramework:
+    :path: "../JaguarFramework"
+
+SPEC CHECKSUMS:
+  JaguarFramework: b5235bf419302e2defcfc312cb24baba6dae15b0
+
+PODFILE CHECKSUM: 1328da75da599976e4f25e119ede5d179cc58733
+
+COCOAPODS: 1.8.4

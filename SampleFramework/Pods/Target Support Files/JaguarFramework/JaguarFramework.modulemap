@@ -1,0 +1,6 @@
+framework module JaguarFramework {
+  umbrella header "JaguarFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
